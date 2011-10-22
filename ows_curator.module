@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OWS Curator feature.
+ */
+
+include_once('ows_curator.features.inc');
